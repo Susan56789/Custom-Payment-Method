@@ -1,8 +1,11 @@
 # Custom Payment Method
 
-Custom Payment Method for your Wordpress site
+Custom Payment Method Instructions for your Wordpress site
 
-Navigate to wp-content/plugins
+- Navigate to wp-content/plugins
 
-Create a new folder(Name of your payment method)
-create index.php file , add the code and customize it as needed
+- Add this folder(change lipa_na_mpesa to your desired payment method) , make your desired changes
+
+- Save the changes
+
+- Log in to your wordpress admin dashboard, activate plugin
